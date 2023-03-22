@@ -1,7 +1,7 @@
 # 내가 푼 문제
 #n, k = map(int, input().split())
 n = 25
-k = 5
+k = 3
 
 count = 0
 count += n % k
