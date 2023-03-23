@@ -1,5 +1,5 @@
 # DFS 메소드 정의
-def dfs(graph, v, visited):
+def dfs(graph, v, visited):                                                                                               
     # 현재 노드를 방문 처리
     visited[v] = True
     print(v, end=' ')
