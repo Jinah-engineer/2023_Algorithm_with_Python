@@ -1,8 +1,3 @@
-print(ord('a'))
-print(ord('b'))
-print(ord('c'))
-print(ord('d'))
-print(ord('e'))
-print(ord('f'))
-print(ord('g'))
-print(ord('h'))
+visited = [False] * 9
+
+print(visited)
